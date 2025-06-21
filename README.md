@@ -1,6 +1,10 @@
-# Welcome to your Expo app 👋
+# Studious, a cross-platform React Native app for students and parents
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app). 
+
+It is a prototype app built for a university group business project.
+To see a preview of the prototype, click the following link:
+https://studiousapp.netlify.app
 
 ## Get started
 
